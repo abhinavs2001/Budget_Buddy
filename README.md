@@ -5,17 +5,17 @@ An application through which individuals can keep a record of their day to day e
 Mainly designed for the college students because it is very difficult to keep track of expenses during college time.
 
 ## The Application is divided into 2 segments
-2. Frontend of Web App
-3. Backend of Web App
+1. Frontend of Web App
+2. Backend of Web App
 
 ## Tech stack Used
 Html Css Javascript Php React.
 
 ## Features
 It has several features like:
-One could add/delete expenses
-One could add/delete savings
-Finally after all the transactions are done, a detailed report can also be generated for maintainance purposes.
+1. One could add/delete expenses
+2. One could add/delete savings
+3.Finally after all the transactions are done, a detailed report can also be generated for maintainance purposes.
 
 
 ## Live Link
