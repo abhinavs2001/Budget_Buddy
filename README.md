@@ -15,7 +15,7 @@ Html Css Javascript Php React.
 It has several features like:
 1. One could add/delete expenses
 2. One could add/delete savings
-3.Finally after all the transactions are done, a detailed report can also be generated for maintainance purposes.
+3. Finally after all the transactions are done, a detailed report can also be generated for maintainance purposes.
 
 
 ## Live Link
