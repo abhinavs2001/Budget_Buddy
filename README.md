@@ -25,6 +25,6 @@ http://expense-tracker-2002.surge.sh/
 All the source code in present in this repository.
  
  ### Frontend Screenshots
- ![s1](https://user-images.githubusercontent.com/79807722/189840013-86a190d1-7abb-41f7-ad7c-9e9c27409c17.PNG)  
+![e1](https://user-images.githubusercontent.com/79807722/206556720-41d3e721-b0c5-478e-a082-a7947952d19e.png)
 
 
