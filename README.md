@@ -29,7 +29,7 @@ All the source code in present in this repository.
 
 ![e2](https://user-images.githubusercontent.com/79807722/206556993-4cf90683-e192-4aa4-898d-002524726fd6.png)
 
-## Various Expenses
+## Various Expenses/Income
 ![e3](https://user-images.githubusercontent.com/79807722/206557133-f0e148c6-a4c2-4baa-80a2-9648d2817bfc.PNG)
 
 ## Report
