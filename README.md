@@ -27,4 +27,6 @@ All the source code in present in this repository.
  ### Frontend Screenshots
 ![e1](https://user-images.githubusercontent.com/79807722/206556720-41d3e721-b0c5-478e-a082-a7947952d19e.png)
 
+![e2](https://user-images.githubusercontent.com/79807722/206556993-4cf90683-e192-4aa4-898d-002524726fd6.png)
+
 
