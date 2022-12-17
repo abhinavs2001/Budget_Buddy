@@ -18,6 +18,10 @@ It has several features like:
 3. Finally after all the transactions are done, a detailed report can also be generated for maintainance purposes.
 
 
+## Methodology
+The below Block Diagram shows the design of the project
+
+
 ## Live Link
 http://expense-tracker-2002.surge.sh/
 
