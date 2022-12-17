@@ -20,6 +20,8 @@ It has several features like:
 
 ## Methodology
 The below Block Diagram shows the design of the project
+![11](https://user-images.githubusercontent.com/79807722/208254146-8b09addd-faee-4504-89a8-2ceba5a076d6.PNG)
+
 
 
 ## Live Link
